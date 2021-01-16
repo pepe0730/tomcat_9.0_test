@@ -30,6 +30,8 @@
 			</select>
 			<input type="submit" value="送信">
 		</form>
+		<p>全権取得したい場合はこちら</p>
+		<a href="search_all">全件検索</a>
 		<table border="1">
 			<tr>
 				<th>id</th>
