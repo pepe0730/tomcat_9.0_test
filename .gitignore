@@ -1,0 +1,18 @@
+#eclipse
+.classpath
+.project
+.settings/
+build/
+
+#Maven
+target/
+
+#Compiled class file
+*.class
+
+# OS Files
+Thumbs.gb
+.DS_Store
+
+#CVS
+work
